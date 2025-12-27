@@ -14,3 +14,16 @@ This dashboard analyzes healthcare sales data across multiple years, quarters, a
 - Q2: 99
 - Q3: 101
 - Q4: 73
+
+# Geographic Analysis -
+Sales and customer presence visualized on a world map
+Major contributing countries:
+- 🇺🇸 United States – 135 customers (36%)
+- 🇨🇦 Canada – 104 customers (27.73%)
+- 🇹🇭 Thailand – 101 customers (~26%)
+- 🇫🇷 France – 35 customers (9.33%)
+
+# Trend Analysis - 
+- Year-wise customer trend (2016–2019) shown using a line chart
+- Rapid growth from 2016 to 2018
+- Slight decline observed in 2019
